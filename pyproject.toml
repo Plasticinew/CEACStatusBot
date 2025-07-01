@@ -11,4 +11,5 @@ dependencies = [
     "onnxruntime>=1.22.0",
     "pillow>=11.2.1",
     "requests>=2.32.3",
+    "pytz>=2025.2"
 ]
